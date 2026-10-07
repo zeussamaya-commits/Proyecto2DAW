@@ -1,0 +1,19 @@
+
+header{
+    background-color: black;
+    border: 1px solid red;
+}
+
+menu{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    hover: {
+        color: red;
+    }
+}
+body{
+    background-color: black;
+    color: white;
+}
